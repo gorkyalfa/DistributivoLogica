@@ -1,0 +1,13 @@
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.exe
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.deps.json
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.runtimeconfig.json
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.runtimeconfig.dev.json
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.dll
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\bin\Debug\netcoreapp3.1\Distributivo.pdb
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.csprojAssemblyReference.cache
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.csproj.CoreCompileInputs.cache
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.AssemblyInfoInputs.cache
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.AssemblyInfo.cs
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.dll
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.pdb
+C:\Users\Gorky\Documents\YaviracTec-2019-Nov-2020-Abr\DistributivoDocente\Distributivo\obj\Debug\netcoreapp3.1\Distributivo.genruntimeconfig.cache
